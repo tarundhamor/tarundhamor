@@ -1,6 +1,6 @@
-### Hey 👋🏽, I'm [Tarun!](https://tarundhamor.me)
-
-<a href="https://www.linkedin.com/in/tarundhamor/">
+### Hey 😎, I'm [Tarun!](https://tarundhamor.me)
+<br />
+<a href="https://www.linkedin.com/in/tarundhamor/" target="_blank">
   <img align="left" alt="Tarun's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/tarundhamor/">
@@ -12,7 +12,6 @@
 <a href="https://www.reddit.com/user/tarundh/">
   <img align="left" alt="Tarun's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
 <br />
 <br />
 
@@ -40,5 +39,6 @@ Hi, I'm Tarun Dhamor, a CSE student, a Full Stack Developer 🚀 from India, cur
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=tarundhamor&show_icons=true&hide_border=true)
 
-
+💖 from [tarundhamor](https://github.com/tarundhamor)
