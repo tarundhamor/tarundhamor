@@ -15,3 +15,5 @@
 
 <br />
 <br />
+
+Hi, I'm Tarun Dhamor, a Full Stack Developer 🚀 from India, currently, I'm a Technical Content Writer at GeeksforGeeks 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Web Developer 👨🏽‍💻 [@SRM-MUN](https://www.srmmun.in/), Campus Ambassador 👨🏽‍💼[@CodingBlocks](https://codingblocks.com/) and a former Frontend Intern at BR Brains. Other than programming, I enjoy playing badminton, chess and cooking food.
